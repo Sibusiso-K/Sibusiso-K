@@ -47,8 +47,8 @@ Alongside technical work, I lead and collaborate on projects in **esports, media
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SibusisoKhumalo&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SibusisoKhumalo&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sibusiso-K&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sibusiso-K&theme=tokyonight" height="160"/>
 </p>
 
 ---

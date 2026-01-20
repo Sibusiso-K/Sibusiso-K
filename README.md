@@ -12,7 +12,7 @@
 
 ## 🚀 About Me  
 
-I’m a South African **engineering-focused technologist and creative builder** passionate about developing systems that merge **software, electronics, and human-centered design**. I work at the intersection of **full-stack development, embedded systems, and digital platforms**, building scalable solutions for startups, student-led ventures, and creative communities.  
+I’m a Joburg-based **engineering-focused technologist and creative builder** passionate about developing systems that merge **software, electronics, and human-centered design**. I work at the intersection of **full-stack development, embedded systems, and digital platforms**, building scalable solutions for startups, student-led ventures, and creative communities.  
 
 Alongside technical work, I lead and collaborate on projects in **esports, media production, and digital entrepreneurship**, turning ideas into real, shipped products. I believe in **learning through building, failing fast, and refining relentlessly**.
 

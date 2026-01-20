@@ -20,7 +20,7 @@ Alongside technical work, I lead and collaborate on projects in **esports, media
 
 ## 🧠 What I’m Exploring Right Now  
 - ⚙️ Embedded systems & electronics for real-world automation  
-- 🌐 Full-stack web apps (React, Node, APIs, databases)  
+- 🌐 Full-stack web apps 
 - 🎮 Esports platforms & digital community tools  
 - 🎨 UX/UI systems for high-impact products  
 

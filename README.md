@@ -54,7 +54,7 @@ Alongside technical work, I lead and collaborate on projects in **esports, media
 ---
 
 ## 🏗️ Featured Work  
--  **Driver Onboarding Website ** – Website for Driver Onboarding 
+-  **Driver Onboarding Website** – Website for Driver Onboarding 
 -  **Embedded Projects** – Electronics, automation, and control systems
 -  **Arcade Game** - Customized game of Dig Dug
 

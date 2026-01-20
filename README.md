@@ -54,16 +54,15 @@ Alongside technical work, I lead and collaborate on projects in **esports, media
 ---
 
 ## 🏗️ Featured Work  
-- 🎮 **Esports Platforms & Digital Communities** – Tools and systems for managing teams, events, and online engagement  
-- 🌍 **Startup Systems** – Full-stack apps for student and early-stage ventures  
-- ⚡ **Embedded Projects** – Electronics, automation, and control systems  
+-  **Driver Onboarding Website ** – Website for Driver Onboarding 
+-  **Embedded Projects** – Electronics, automation, and control systems
+-  **Arcade Game** - Customized game of Dig Dug
 
 ---
 
 ## 📫 Let’s Connect  
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
-- 🌐 Portfolio: https://yourwebsite.com  
-- ✉️ Email: your.email@example.com  
+- 💼 LinkedIn: https://linkedin.com/in/sibusiso-khumalo-00520a201 
+- ✉️ Email: ksibusiso023@gmail.com 
 
 ---
 

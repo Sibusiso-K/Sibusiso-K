@@ -1,68 +1,44 @@
-# 👋 Hi, I’m Sibusiso Khumalo  
+# Hi, I'm Sibusiso Khumalo 👋
 
-### Technologist | Creative | Builder | Engineering & Digital Systems  
+**Electrical Engineering Student · Aspiring AI/ML Engineer**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SibusisoKhumalo&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/SibusisoKhumalo?label=Followers&style=flat" alt="followers" />
-  <img src="https://img.shields.io/github/stars/SibusisoKhumalo?label=Stars&style=flat" alt="stars" />
-</p>
+I'm based in Johannesburg, building software and machine learning projects alongside my engineering studies — with a focus on practical, real-world tools rather than tutorials.
 
 ---
 
-## 🚀 About Me  
+## 🚀 What I'm building
 
-I’m a Joburg-based **engineering-focused technologist and creative builder** passionate about developing systems that merge **software, electronics, and human-centered design**. I work at the intersection of **full-stack development, embedded systems, and digital platforms**, building scalable solutions for startups, student-led ventures, and creative communities.  
+- **[stokup](https://github.com/Sibusiso-K/stokup)** — an app connecting informal spaza shops directly to wholesalers, cutting out middleman markups on stock.
+- **[pickme](https://github.com/Sibusiso-K/pickme)** — a driver onboarding platform (TypeScript).
+- **[Ai-middleman](https://github.com/Sibusiso-K/Ai-middleman)** — Python project exploring AI-driven automation for transactions.
+- **[Portfolio](https://sibusisokhumaloportfolio.vercel.app/)** — my personal site, showcasing projects and background.
 
-Alongside technical work, I lead and collaborate on projects in **esports, media production, and digital entrepreneurship**, turning ideas into real, shipped products. I believe in **learning through building, failing fast, and refining relentlessly**.
+## 🧠 Currently exploring
 
----
+- Applied AI/ML for real-world, resource-constrained problems
+- Full-stack development (React, TypeScript, Node.js)
+- Systems that connect underserved communities to better tools and markets
 
-## 🧠 What I’m Exploring Right Now  
-- ⚙️ Embedded systems & electronics for real-world automation  
-- 🌐 Full-stack web apps 
-- 🎮 Esports platforms & digital community tools  
-- 🎨 UX/UI systems for high-impact products  
+## 🛠️ Tech
 
----
-
-## 🔧 Tech Stack  
-
-### Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=flat)
-
-### Frameworks & Tools  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat)
 
----
-
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sibusiso-K&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sibusiso-K&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sibusiso-K&show_icons=true&theme=default" height="160"/>
 </p>
 
----
+## 📫 Reach me
 
-## 🏗️ Featured Work  
--  **Driver Onboarding Website** – Website for Driver Onboarding 
--  **Embedded Projects** – Electronics, automation, and control systems
--  **Arcade Game** - Customized game of Dig Dug
-
----
-
-## 📫 Let’s Connect  
-- 💼 LinkedIn: https://linkedin.com/in/sibusiso-khumalo-00520a201 
-- ✉️ Email: ksibusiso023@gmail.com 
-
----
-
+- Portfolio: [sibusisokhumaloportfolio.vercel.app](https://sibusisokhumaloportfolio.vercel.app/)
+- LinkedIn: [sibusiso-khumalo-00520a201](https://linkedin.com/in/sibusiso-khumalo-00520a201)
+- Email: ksibusiso023@gmail.com
+</content>
+</invoke>

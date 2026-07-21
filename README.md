@@ -2,7 +2,7 @@
 
 **Electrical Engineering Student · Aspiring AI/ML Engineer**
 
-I'm based in Johannesburg, building software and machine learning projects alongside my engineering studies — with a focus on practical, real-world tools rather than tutorials.
+I'm based in Johannesburg, building software and machine learning projects alongside my engineering studies, with a focus on practical, real-world tools rather than tutorials.
 
 ---
 

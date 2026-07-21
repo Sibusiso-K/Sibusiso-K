@@ -1,4 +1,4 @@
-# Hi, I'm Sibusiso Khumalo 
+# Sibusiso Khumalo
 
 **Electrical Engineering Student · Aspiring AI/ML Engineer**
 

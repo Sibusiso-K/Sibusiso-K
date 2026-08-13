@@ -8,7 +8,7 @@ Based in Johannesburg. I build applied machine learning and agentic LLM systems:
 
 ## Machine Learning / AI
 
-- **[RSNA Knee Abnormality Detection](https://github.com/Sibusiso-K/RSNA-Knee-Abnormality-Detection)**: Kaggle competition ($77K prize pool, 7,500+ entrants), deep learning on knee MRI to predict twelve clinically important abnormalities, evaluated on macro-averaged AUC-ROC. PyTorch, torchvision, pydicom, transformers.
+- **[RSNA Knee Abnormality Detection](https://github.com/Sibusiso-K/RSNA-Knee-Abnormality-Detection)**: Kaggle competition, deep learning on knee MRI to predict twelve clinically important abnormalities, evaluated on macro-averaged AUC-ROC. PyTorch, torchvision, pydicom, transformers.
 - **[AI Middleman](https://github.com/Sibusiso-K/Ai-middleman)**: a human-in-the-loop WhatsApp agent that matches introduction requests against 50,000 contacts and drafts replies in the owner's voice, with every message gated on explicit approval. Two-stage LLM pipeline (keyword filter, then Llama 3.1 ranking) built for cost and latency, not just accuracy. FastAPI, Groq, PostgreSQL, React.
 - **[Stokup Restock Agent](https://github.com/Sibusiso-K/Stokup-Restok-Agent)**: a LangGraph agent that turns a spaza shop owner's free-text WhatsApp order into a costed, optimised purchase order across wholesalers, with an explicit human approval step before anything is ordered. LangChain, Pydantic, RapidFuzz.
 
